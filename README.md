@@ -1,1 +1,1 @@
-# kalkulatorx.ru
+# kalkulatorx.github.io
