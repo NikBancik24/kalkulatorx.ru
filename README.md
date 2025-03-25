@@ -1,1 +1,1 @@
-# kalkulatorx.github.io
+# NikBancik24.github.io
